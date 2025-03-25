@@ -1,4 +1,4 @@
-# 22211a7254-Titanic-Survival-Prediction-using-ML
+# 22211a7254-Titanic-Survival-Prediction
 
 #  An overview of the project
 This research develops a machine learning model that uses a number of characteristics, including age, gender, ticket class, and fare, to predict if a passenger survived the Titanic disaster.
